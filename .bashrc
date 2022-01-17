@@ -9,9 +9,6 @@ alias ls='ls --color=auto'
 PS1='[\u@\h \W]\$ '
 PS2='> '
 
-# tstock api access
-#export MARKETSTACK_API_KEY=15735beaff3ca02ee31351f67200410f
-
 # custom alias
 alias ..='cd ..'
 
