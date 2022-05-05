@@ -1,0 +1,6 @@
+call plug#begin('~/.vim/plugged')
+
+" Insert plugins below like so (file path is after above):
+" Plug 'path/to-plug'
+
+call plug#end()
